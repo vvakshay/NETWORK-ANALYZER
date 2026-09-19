@@ -1,5 +1,3 @@
-# NETWORK-ANALYZER
-Real-time Python network security analyzer with packet inspection, device identification, port-scan detection, ARP anomaly detection, and instant phone security alerts.
 🔐 Network Analyzer
 
 A real-time Python-based network security monitoring and analysis tool that captures network packets, identifies network devices and protocols, detects suspicious activity, logs security events, and sends real-time alerts to a mobile phone.
