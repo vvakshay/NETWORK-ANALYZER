@@ -1,5 +1,5 @@
 import requests
-topic="lsm_7Kp29xQ4vN8_alerts"
+topic="TOPIC"
 def send_phone_alert(message):
     URL=f"https://ntfy.sh/{topic}"
     try:
