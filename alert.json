@@ -1,0 +1,694 @@
+[
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:19:21",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:26",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:27",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:28",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:28",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:28",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:28",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:29",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:27:30",
+        "Old mac": "AA:BB:CC:DD:EE:FF",
+        "New mac": "11:22:33:44:55:66"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:33:22",
+        "Old mac": "2c:3b:70:67:90:75",
+        "New mac": "54:e4:ed:c3:45:ec"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:33:28",
+        "Old mac": "2c:3b:70:67:90:75",
+        "New mac": "1c:bf:c0:25:f7:db"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:33:33",
+        "Old mac": "2c:3b:70:67:90:75",
+        "New mac": "ca:5d:51:cd:30:56"
+    },
+    {
+        "alert_type": "Port scan detected",
+        "message": "A port scan has been detected",
+        "Timestamp": "2026-09-19 06:35:12",
+        "Source ip": "192.168.198.199",
+        "Destination ip": "192.168.197.138",
+        "Ports_detected": [
+            1025,
+            993,
+            199,
+            5900,
+            110,
+            113,
+            443,
+            1720,
+            25,
+            1723
+        ]
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:35:14",
+        "Old mac": "ec:3a:56:2b:30:28",
+        "New mac": "bc:9f:58:e1:ed:13"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:35:15",
+        "Old mac": "ec:3a:56:2b:30:28",
+        "New mac": "bc:9f:58:e1:ed:13"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:35:15",
+        "Old mac": "ec:3a:56:2b:30:28",
+        "New mac": "bc:9f:58:e1:ed:13"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:35:22",
+        "Old mac": "ec:3a:56:2b:30:28",
+        "New mac": "2c:3b:70:67:90:75"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 06:35:23",
+        "Old mac": "ec:3a:56:2b:30:28",
+        "New mac": "80:9d:65:f2:69:2c"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:09:45",
+        "Old mac": "20:58:43:05:0e:8a",
+        "New mac": "14:13:33:f3:e7:51"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:09:45",
+        "Old mac": "20:58:43:05:0e:8a",
+        "New mac": "2c:db:07:4f:d1:93"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:09:46",
+        "Old mac": "20:58:43:05:0e:8a",
+        "New mac": "14:2d:27:d4:04:4b"
+    },
+    {
+        "alert_type": "Port scan detected",
+        "message": "A port scan has been detected",
+        "Timestamp": "2026-09-19 07:09:47",
+        "Source ip": "192.168.198.199",
+        "Destination ip": "192.168.197.138",
+        "Ports_detected": [
+            1756,
+            1253,
+            1069,
+            1677,
+            1200,
+            502,
+            983,
+            474,
+            988,
+            29
+        ]
+    },
+    {
+        "alert_type": "Port scan detected",
+        "message": "A port scan has been detected",
+        "Timestamp": "2026-09-19 07:12:21",
+        "Source ip": "192.168.198.199",
+        "Destination ip": "192.168.197.138",
+        "Ports_detected": [
+            963,
+            1150,
+            137,
+            1033,
+            528,
+            1329,
+            213,
+            1850,
+            700,
+            1438
+        ]
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:12:24",
+        "Old mac": "14:b5:cd:4f:37:b5",
+        "New mac": "9c:c7:d3:8d:92:32"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:12:26",
+        "Old mac": "14:b5:cd:4f:37:b5",
+        "New mac": "d4:8d:26:a4:e8:9c"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:12:26",
+        "Old mac": "14:b5:cd:4f:37:b5",
+        "New mac": "d4:8d:26:a4:e8:9c"
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:18:54",
+        "Old mac": "2c:db:07:4f:d1:93",
+        "New mac": "ac:f2:3c:dd:82:75"
+    },
+    {
+        "alert_type": "Port scan detected",
+        "message": "A port scan has been detected",
+        "Timestamp": "2026-09-19 07:19:39",
+        "Source ip": "192.168.198.199",
+        "Destination ip": "192.168.197.138",
+        "Ports_detected": [
+            1,
+            1957,
+            1322,
+            749,
+            1935,
+            1712,
+            817,
+            1489,
+            623,
+            1149
+        ]
+    },
+    {
+        "alert_type": "ARP anomaly",
+        "message": "IP to MAC mapping has been changed",
+        "Timestamp": "2026-09-19 07:19:40",
+        "Old mac": "50:5a:65:68:71:99",
+        "New mac": "80:9d:65:f2:69:2c"
+    }
+]
